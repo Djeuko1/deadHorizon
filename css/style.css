@@ -759,7 +759,7 @@ section {
 
 /* Story Page Styles */
 .story-hero {
-  background-image: url("./images/story-bg-main.webp");
+  background-image: url("/images/story-bg-main.webp");
 }
 
 .story-section {
